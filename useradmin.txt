@@ -1,0 +1,6 @@
+useradd
+usermod
+chage
+passwd
+groupadd
+groupmod

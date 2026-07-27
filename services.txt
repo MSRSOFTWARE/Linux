@@ -1,0 +1,7 @@
+vsftpd
+ssh
+nfs
+httpd
+ntp
+autofs
+dns

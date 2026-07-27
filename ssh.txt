@@ -1,3 +1,4 @@
 ssh stands for secure shell
 ssh default port is 22
 ssh package name is openssh
+ssh means secure shell and we can take fulladmin access to the another servers

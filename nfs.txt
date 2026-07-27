@@ -1,4 +1,2 @@
 What is the nfs? NFS stands Network Filesharing System
-What is default port number for nfs? 2049
-What is the nfs package? nfs-utils
-What is the nfs service name? nfs-server.service
+what is default port number for nfs? 2049

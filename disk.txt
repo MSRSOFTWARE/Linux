@@ -1,6 +1,7 @@
 Normal
 LVM(Logical Volume Manager)
 How to create lvm
+How to reduce LVM partition
 How to extend the LVM
 RAID
 

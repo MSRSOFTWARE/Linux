@@ -1,0 +1,3 @@
+ssh stands for secure shell
+ssh default port is 22
+ssh package name is openssh
